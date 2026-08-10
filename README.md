@@ -40,15 +40,13 @@
   <tr>
     <td class="main3" width="890px"><b>Modo de usar:</b></td>
   <tr>
-    <td width="500px" class="main2"><br>wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</br>
+    <td width="100px" class="main2"><td width="100px" class="main2">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</td>
 <br>chmod +x minergrit.py</br>
 <br>python3 minergrit.py</br>
-<br>
-Não e preciso utilizar ó screen para deixar em segundo plano, o progama faz isto automaticamente.
+<br>Não e preciso utilizar ó screen para deixar em segundo plano, o progama faz isto automaticamente.
 Para Reabrir o progama apos ter feixado á conexão com o servidor.</br>
-<br><b>Utilize: screen -r</b></br>
-<br>Caso o python3 não estiver instalado:</br>
-<br>apt-get install python3</br>
+<td width="100px" class="main2"><b>Utilize:</b><td width="700px" class="main2">screen -r</td>
+<td width="100px" class="main2">Caso o python3 não estiver instalado:</td><td width="700px" class="main2">apt-get install python3</td>
   </td>
   </tr>
 </body>
