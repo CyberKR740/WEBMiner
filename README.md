@@ -48,9 +48,9 @@ python3 minergrit.py
 <br>
 Não e preciso utilizar ó screen para deixar em segundo plano, o progama faz isto automaticamente.
 Para Reabrir o progama apos ter feixado á conexão com o servidor.</br>
-<b>Utilize:</b><br> screen -r</br>
-<br>Caso o python3 não estiver instalado:</br>
-<br>apt-get install python3</br>
+<br><b>Utilize: screen -r</b></br>
+<br>Caso o python3 não estiver instalado:
+apt-get install python3</br>
   </td>
   </tr>
 </body>
