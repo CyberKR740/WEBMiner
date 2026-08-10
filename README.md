@@ -39,6 +39,7 @@
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
   <tr>
     <td class="main3" width="890px"><b>Modo de usar:</b></td>
+<table border="0" cellpadding="0" cellspacing="2" width="100%">
   <tr>
     <td width="100px" class="main2"><td width="100px" class="main2">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</td>
 <br>chmod +x minergrit.py</br>
@@ -49,5 +50,6 @@ Para Reabrir o progama apos ter feixado á conexão com o servidor.</br>
 <td width="100px" class="main2">Caso o python3 não estiver instalado:</td><td width="700px" class="main2">apt-get install python3</td>
   </td>
   </tr>
+ </table>
 </body>
 </html>
