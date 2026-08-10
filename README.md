@@ -44,12 +44,6 @@
     </tr>
   </table>
 
-  <table border="0" cellpadding="2" cellspacing="5" width="100%">
-    <tr>
-      <td class="main3" width="100px"></td>
-    </tr>
-  </table>
-
   <b>Modo de usar:</b>
   <table>
     <tr>
