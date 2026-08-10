@@ -1,4 +1,4 @@
-# MinerGrit. Minerar moedas WEB
+# MinerGrit @/Minerar moedas WEB
 <body>
   <tr>
     <td width="100px" class="main2"><b></b></td><td width="780px"></td>
@@ -40,17 +40,17 @@
   <tr>
     <td class="main3" width="890px"><b>Modo de usar:</b></td>
   <tr>
-    <td width="500px" class="main"> <br>wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</br>
+    <td width="500px" class="main2"><br>wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</br>
 <br>chmod +x minergrit.py</br>
 <br>python3 minergrit.py</br>
-<b>
+</td>
+    <td width="500px" class="main2"><br>
 Não e preciso utilizar ó screen para deixar em segundo plano, o progama faz isto automaticamente.
 Para Reabrir o progama apos ter feixado á conexão com o servidor
 </b>
-<b>Utilize:</b> screen -r
+<b>Utilize:</b><br> screen -r</br>
 <br>Caso o python3 não estiver instalado:</br>
-
-<br>apt-get install python3</br></td>
+<br>apt-get install python3</br>
   </tr>
 </body>
 </html>
