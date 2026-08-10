@@ -48,7 +48,8 @@ Não e preciso utilizar ó screen para deixar em segundo plano, o progama faz is
 Para Reabrir o progama apos ter feixado á conexão com o servidor
 </b>
 <b>Utilize:</b> screen -r
-<b>Caso o python3 não estiver instalado:</b>
+<br>Caso o python3 não estiver instalado:</br>
+
 <br>apt-get install python3</br></td>
   </tr>
 </body>
