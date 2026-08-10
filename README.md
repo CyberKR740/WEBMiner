@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td class="main2" width="100px"></td>
-      <td width="20px"><b>Caso o python3 não esteja instalado:</b></td>
+      <td width="20px">Caso o python3 não esteja instalado:</td>
     </tr>
     <tr>
       <td class="main2" width="100px"></td>
