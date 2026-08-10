@@ -42,6 +42,11 @@
     <tr>
       <td width="500px" class="main2"><b>Caso queira fazer uma Doação:</b><br>Bitcoin: 17FSQYQWUMmDhKYoXLFFzNVN7PojVPxqNm</br>PicPay: 04xxxx  5/100</br>Minerar: 04xxxxBackdoor.ZWD@gmail.com</td>
     </tr>
+
+   <table border="0" cellpadding="2" cellspacing="5" width="100%">
+    <tr>
+      <td class="main3" width="100px"></td>
+    </tr>
   </table>
 
   <b>Modo de usar:</b>
