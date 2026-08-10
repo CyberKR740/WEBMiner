@@ -43,13 +43,9 @@
     <td class="main3" width="100px">
 </table>
       <b>Modo de usar:</b>
-    </td>
-    <tr>
  <table>
-    <td class="main3" width="100px"><td width="500px"><wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py<td width="500px">chmod +x minergrit.py<td width="500px">python3 minergrit.py</td>
-      <b>Não é preciso utilizar o screen para deixar o programa
-      em segundo plano, pois o programa faz isso automaticamente.
-      Para reabrir o programa após ter fechado a conexão com o servidor:
+    <td class="main3" width="100px"><td width="500px"><wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py<td width="500px">chmod +x minergrit.py<td width="500px">python3 minergrit.py</td><br>Não é preciso utilizar o screen para deixar o programa em segundo plano, pois o programa faz isso automaticamente.
+Para reabrir o programa após ter fechado a conexão com o servidor:
       </br>
      <td class="main3" width="100px"><td width="100px">screen -r<br>Caso o python3 não esteja instalado.</br><td width="500px">apt-get install python3</td>
     </td>
