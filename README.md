@@ -46,18 +46,14 @@
     </td>
     <tr>
  <table>
-    <td class="main3" width="100px"><td width="780px"><b>wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</b>
-      <b>chmod +x minergrit.py</b>
-      <b>python3 minergrit.py</b></td>
+    <td class="main2" width="100px"><td width="100px"><wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py<td width="100px">chmod +x minergrit.py<td width="100px">python3 minergrit.py</td>
       <br>Não é preciso utilizar o screen para deixar o programa
       em segundo plano, pois o programa faz isso automaticamente.</br>
       <br>
       Para reabrir o programa após ter fechado a conexão com o servidor:
       </br>
-     <td class="main3" width="100px"><td width="780px">
-      <b>screen -r</b></td>
-      <b>Caso o python3 não esteja instalado.</b>
-      <br>apt-get install python3</br>
+     <td class="main3" width="100px"><td width="100px">screen -r<td width="500px">Caso o python3 não esteja instalado.<td width="100px">apt-get install python3</td>
     </td>
+ </table>
   </tr>
 </table>
