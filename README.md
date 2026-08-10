@@ -40,16 +40,10 @@
 
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
   <tr>
-    <td class="main3" width="890px">
+    <td class="main3" width="100px">
       <b>Modo de usar:</b>
     </td>
-  </tr>
-
-  <tr>
-    <td class="main2" width="100px"></td>
-    <td class="main2" width="100px"></td>
-    <td class="main2" width="700px">
-      <code>wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</code>
+    <td width="780px">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</td>
       <code>chmod +x minergrit.py</code>
       <code>python3 minergrit.py</code>
       <code>
@@ -62,7 +56,6 @@
       <code>screen -r</code>
 
       Caso o <code>python3</code> não esteja instalado.
-
       <code>apt-get install python3</code>
     </td>
   </tr>
