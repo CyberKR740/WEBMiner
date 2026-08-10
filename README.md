@@ -1,4 +1,4 @@
-# MinerGrit @/Minerar moedas WEB
+# MinerGrit | Minerar moedas WEB
 <body>
   <tr>
     <td width="100px" class="main2"><b></b></td><td width="780px"></td>
@@ -44,7 +44,7 @@
       <b>Modo de usar:</b>
     </td>
     <td width="780px">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</td>
-      <code>chmod +x minergrit.py</code>
+    <td width="780px"><code>chmod +x minergrit.py</code>
       <code>python3 minergrit.py</code>
       <code>
       Não é preciso utilizar o <code>screen</code> para deixar o programa
@@ -52,11 +52,10 @@
       <code>
       Para reabrir o programa após ter fechado a conexão com o servidor:
       </code>
-      <b>Utilize:</b>
-      <code>screen -r</code>
-
-      Caso o <code>python3</code> não esteja instalado.
-      <code>apt-get install python3</code>
+     <td width="780px"><b>Utilize:</b>
+      <code>screen -r</code></td>
+     <td width="780px">Caso o <code>python3</code> não esteja instalado.
+      <code>apt-get install python3</code></td>
     </td>
   </tr>
 </table>
