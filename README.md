@@ -44,18 +44,18 @@
       <b>Modo de usar:</b>
     </td>
     <td width="780px">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</td>
-    <td width="780px"><code>chmod +x minergrit.py</code>
-      <code>python3 minergrit.py</code>
-      <code>
+    <td width="780px"><tr>chmod +x minergrit.py</tr>
+      <tr>python3 minergrit.py</tr>
+      <tr>
       Não é preciso utilizar o <code>screen</code> para deixar o programa
-      em segundo plano, pois o programa faz isso automaticamente.</code>
-      <code>
+      em segundo plano, pois o programa faz isso automaticamente.</tr>
+      <tr>
       Para reabrir o programa após ter fechado a conexão com o servidor:
-      </code>
+      </tr>
      <td width="780px"><b>Utilize:</b>
       <code>screen -r</code></td>
      <td width="780px">Caso o <code>python3</code> não esteja instalado.
-      <code>apt-get install python3</code></td>
+      <tr>apt-get install python3</tr></td>
     </td>
   </tr>
 </table>
