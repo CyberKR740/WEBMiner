@@ -44,7 +44,10 @@
       <b>Modo de usar:</b>
     </td>
     <td width="780px">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</td>
-    <td width="780px"><br>chmod +x minergrit.py</br>
+    <td width="780px">
+    <table border="0" cellpadding="2" cellspacing="5" width="100%">
+    </table>
+      <br>chmod +x minergrit.py</br>
       <br>python3 minergrit.py</br>
       <br>
       Não é preciso utilizar o </b>screen</b> para deixar o programa
