@@ -43,12 +43,12 @@
     <td width="500px" class="main"> <br>wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</br>
 <br>chmod +x minergrit.py</br>
 <br>python3 minergrit.py</br>
-
+<b>
 Não e preciso utilizar ó screen para deixar em segundo plano, o progama faz isto automaticamente.
 Para Reabrir o progama apos ter feixado á conexão com o servidor
-
+</b>
 <b>Utilize:</b> screen -r
-# Caso o python3 não estiver instalado:
+<b>Caso o python3 não estiver instalado:</b>
 <br>apt-get install python3</br></td>
   </tr>
 </body>
