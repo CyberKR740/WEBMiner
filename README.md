@@ -36,20 +36,45 @@
     </table>
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
 </table>
+
+
 <table border="0" cellpadding="2" cellspacing="5" width="100%">
   <tr>
-    <td class="main3" width="890px"><b>Modo de usar:</b></td>
-  <tr>
-    <td width="100px" class="main2"><td width="100px" class="main2"><td width="700px" class="main2"><td width="100px" class="main2">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py
-<br>chmod +x minergrit.py</br>
-<br>python3 minergrit.py</br>
-<br>Não e preciso utilizar ó screen para deixar em segundo plano, o progama faz isto automaticamente.
-Para Reabrir o progama apos ter feixado á conexão com o servidor.</br>
-</td>
-<td width="100px" class="main2"><b>Utilize:</b><td width="700px" class="main2">screen -r</td>
-<td width="100px" class="main2">Caso o python3 não estiver instalado:<td width="700px" class="main2">apt-get install python3</td>
-  </td>
+    <td class="main3" width="890px">
+      <b>Modo de usar:</b>
+    </td>
   </tr>
- </table>
-</body>
-</html>
+
+  <tr>
+    <td class="main2" width="100px"></td>
+    <td class="main2" width="100px"></td>
+    <td class="main2" width="700px">
+      <code>wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</code>
+      <br>
+
+      <code>chmod +x minergrit.py</code>
+      <br>
+
+      <code>python3 minergrit.py</code>
+      <br><br>
+
+      Não é preciso utilizar o <code>screen</code> para deixar o programa
+      em segundo plano, pois o programa faz isso automaticamente.
+      <br><br>
+
+      Para reabrir o programa após ter fechado a conexão com o servidor:
+      <br><br>
+
+      <b>Utilize:</b>
+      <br>
+
+      <code>screen -r</code>
+      <br><br>
+
+      Caso o <code>python3</code> não esteja instalado:
+      <br>
+
+      <code>apt-get install python3</code>
+    </td>
+  </tr>
+</table>
