@@ -8,10 +8,13 @@
       <td class="main3" width="100px"><b>Modo de usar: </b><td width="500px" class="main2">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py
       </td>
     </tr>
+
+
     <tr>
-      <td class="main3" width="100px">chmod +x minergrit.py python3 minergrit.py<td width="500px" class="main2"><br>
-        Não é preciso utilizar o screen para deixar o programa em segundo plano,
-        pois o programa faz isso automaticamente.</br>
+      <td class="main3" width="100px">chmod +x minergrit.py</td><td width="500px" class="main2">
+python3 minergrit.py
+  <tr>
+   <td class="main3" width="100px"><br>Não é preciso utilizar o screen para deixar o programa em segundo plano, pois o programa faz isso automaticamente.</br>
       <br>Para reabrir o programa após ter fechado a conexão com o servidor:</br></td>
    <tr>
    <td class="main3" width="100px"><b>Utilize:</b><td width="500px" class="main2"> screen -r</td>
