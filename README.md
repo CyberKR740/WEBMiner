@@ -20,9 +20,8 @@ python3 minergrit.py
    <td class="main3" width="100px"><br>Para reabrir o programa após ter fechado a conexão com o servidor:</br>
   </td>
 
-   <tr>
    <td class="main3" width="100px"><b>Utilize:</b><td width="500px" class="main2"> screen -r</td>
-    </tr>
+
       <td class="main2" width="100px">Caso o python3 não esteja instalado:<td width="500px" class="main2"> apt-get install python3</td>
   </table>
 </body>
