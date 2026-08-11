@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/min
 
 - Utilize: screen -r
 
-- Caso o python3 não esteja instalado:
+<b>Caso o python3 não esteja instalado:</b>
 - apt-get install python3
 
   </table>
