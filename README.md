@@ -6,7 +6,7 @@
     </tr>
 
 # Modo de usar:
-<br>wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py</br>
+wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py
 
 - chmod +x minergrit.py
 - python3 minergrit.py
