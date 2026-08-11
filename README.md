@@ -23,10 +23,7 @@ python3 minergrit.py
    <tr>
    <td class="main3" width="100px"><b>Utilize:</b><td width="500px" class="main2"> screen -r</td>
     </tr>
-
-    <tr>
       <td class="main2" width="100px">Caso o python3 não esteja instalado:<td width="500px" class="main2"> apt-get install python3</td>
-    </tr>
   </table>
 </body>
 </html>
