@@ -16,8 +16,7 @@ python3 minergrit.py
   <tr>
    <td class="main3" width="100px"><br>Não é preciso utilizar o screen para deixar o programa em segundo plano, pois o programa faz isso automaticamente.</br>
 
-  <tr>
-   <td class="main3" width="100px"><br>Para reabrir o programa após ter fechado a conexão com o servidor:</br>
+   <td class="main3" width="100px"><br>Para reabrir o programa após ter fechado a conexão com o servidor:
   </td>
 
    <td class="main3" width="100px"><b>Utilize:</b><td width="500px" class="main2"> screen -r</td>
