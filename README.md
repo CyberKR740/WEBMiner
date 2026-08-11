@@ -1,10 +1,9 @@
 
 
 
-
+   <body>
     <tr>
-      <td width="500px" class="main2" colspan="2">
-        <b>Caso queira fazer uma Doação.</b>
+      <td class="main3" width="500px"><b>Caso queira fazer uma Doação.</b>
 <br>Bitcoin: 17FSQYQWUMmDhKYoXLFFzNVN7PojVPxqNm</br>PicPay: 04xxxx  5/100</br>Minerar: 04xxxxBackdoor.ZWD@gmail.com</br>
       </td>
     </tr>
