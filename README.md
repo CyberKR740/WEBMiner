@@ -36,6 +36,8 @@ https://github.com/wolf9466/cpuminer-multi.</td>
       <td width="100px" class="main2"><b>Privado:</b></td>  
       <td width="780px">@nZwdeff</td>  
     </tr>
+   </table>
+
     <tr>
       <td class="main3" width="500px"><b>Caso queira fazer uma Doação.</b>
 <br>Bitcoin: 17FSQYQWUMmDhKYoXLFFzNVN7PojVPxqNm</br>PicPay: 04xxxx  5/100</br>Minerar: 04xxxxBackdoor.ZWD@gmail.com</br>
@@ -59,6 +61,5 @@ wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/min
 <b>Caso o python3 não esteja instalado:</b>
 - apt-get install python3
 
-  </table>
 </body>
 </html>
