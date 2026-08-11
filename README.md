@@ -12,8 +12,7 @@
       <td class="main3" width="100px">chmod +x minergrit.py python3 minergrit.py<td width="500px" class="main2"><br>
         Não é preciso utilizar o screen para deixar o programa em segundo plano,
         pois o programa faz isso automaticamente.</br>
-      <br>Para reabrir o programa após ter fechado a conexão com o servidor:</br><td class="main3" width="100px"><b>Utilize:</b><td width="500px" class="main2"><br>screen -r</br>
-      </td>
+      <br>Para reabrir o programa após ter fechado a conexão com o servidor:</br><td class="main3" width="100px"><b>Utilize:</b><td width="500px" class="main2">screen -r</td>
     </tr>
     <tr>
       <td class="main2" width="100px">Caso o python3 não esteja instalado:<td width="500px">apt-get install python3
