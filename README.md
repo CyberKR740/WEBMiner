@@ -11,7 +11,7 @@
 
 
     <tr>
-      <td class="main3" width="100px">chmod +x minergrit.py</td><td width="500px" class="main2">
+      <td class="main3" width="100px">chmod +x minergrit.py<td width="500px" class="main2">
 python3 minergrit.py
   <tr>
    <td class="main3" width="100px"><br>Não é preciso utilizar o screen para deixar o programa em segundo plano, pois o programa faz isso automaticamente.</br>
