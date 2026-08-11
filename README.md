@@ -4,15 +4,15 @@
 <br>Bitcoin: 17FSQYQWUMmDhKYoXLFFzNVN7PojVPxqNm</br>PicPay: 04xxxx  5/100</br>Minerar: 04xxxxBackdoor.ZWD@gmail.com</br>
       </td>
     </tr>
+
     <tr>
       <td class="main3" width="100px"><b>Modo de usar: </b><td width="500px" class="main2">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py
       </td>
     </tr>
 
+- chmod +x minergrit.py
+- python3 minergrit.py
 
-    <tr>
-      <td class="main3" width="100px">chmod +x minergrit.py<td width="500px" class="main2">
-python3 minergrit.py
   <tr>
    <td class="main3" width="100px"><br>Não é preciso utilizar o screen para deixar o programa em segundo plano, pois o programa faz isso automaticamente.</br>
 
