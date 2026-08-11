@@ -53,11 +53,7 @@
       </td>
     </tr>
     <tr>
-      <td class="main3" width="100px">
-        <b>Modo de usar:</b>
-      </td>
-      <td width="500px" class="main2">
-        wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py
+      <td class="main3" width="100px"><b>Modo de usar:</b><td width="500px" class="main2">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py
       </td>
     </tr>
     <tr>
