@@ -5,7 +5,7 @@
       </td>
     </tr>
     <tr>
-      <td class="main3" width="100px"><b>Modo de usar:</b><td width="500px" class="main2">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py
+      <td class="main3" width="100px"><b>Modo de usar: </b><td width="500px" class="main2">wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/minergrit.py
       </td>
     </tr>
     <tr>
@@ -17,7 +17,7 @@
    <td class="main3" width="100px"><b>Utilize:</b><td width="500px" class="main2"> screen -r</td>
     </tr>
     <tr>
-      <td class="main2" width="100px">Caso o python3 não esteja instalado:<td width="500px" class="main2">apt-get install python3</td>
+      <td class="main2" width="100px">Caso o python3 não esteja instalado:<td width="500px" class="main2"> apt-get install python3</td>
     </tr>
   </table>
 </body>
