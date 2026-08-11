@@ -17,7 +17,7 @@ wget https://raw.githubusercontent.com/CyberKR740/WEBMiner/refs/heads/master/min
    <td class="main3" width="100px"><br>Para reabrir o programa após ter fechado a conexão com o servidor:
   </td>
 
-   <td class="main3" width="100px"><b>Utilize:</b><td width="500px" class="main2"> screen -r</td>
+- Utilize: screen -r
 
 - Caso o python3 não esteja instalado:
 - apt-get install python3
